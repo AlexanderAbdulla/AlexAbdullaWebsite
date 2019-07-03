@@ -46,13 +46,13 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="/AlexAbdullaWebsite/#about">About<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="http://alexabdulla.azurewebsites.net/#about">About<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="/AlexAbdullaWebsite/#resume">Resume</a>
+        <a class="nav-link" href="http://alexabdulla.azurewebsites.net/#resume">Resume</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="/AlexAbdullaWebsite/#work">Projects</a>
+        <a class="nav-link" href="http://alexabdulla.azurewebsites.net/#work">Projects</a>
       </li>
     </ul>
   </div>
@@ -104,7 +104,7 @@
 							&gt; Alexander.contact<br>
 							<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="mailto:alexander.amadeus.abdulla@gmail.com">alexander.amadeus.abdulla@gmail.com</a>"<br><br></span>
                         	&gt; Alexander.linkedIn<br>
-							<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="https://www.linkedin.com/in/alexander-abdulla-b5b314163/">linkedin.com/in/alexander-abdulla</a>"<br><br></span>
+							<span class="answer">&nbsp;&nbsp;=&gt; "<a target="_blank" href="https://www.linkedin.com/in/alexander-abdulla-b5b314163/">alexander-abdulla</a>"<br><br></span>
                         </div>
 					</div>
 				</div>
@@ -180,7 +180,7 @@
 			<!-- Portfolio -->
 			<div id="work"><div class="inner">
 				<p class="tagline">Projects</p>
-				<h3>This section is under constrcution!<br><br> For now please check my github:<br><br> <a href=https://github.com/AlexanderAbdulla>LINK!</a></h3>				
+				<h3>This section is under construction!<br><br> For now please check my github:<br><br> <a href=https://github.com/AlexanderAbdulla>LINK!</a></h3>				
 				<!--<div class="portfolio-thumb portfolio-big">
 					<a class="image-popup-no-margins" href="img/portfolio/happen.png"><img src="img/portfolio/happen.png"></a>
 					<p class="description"><b>Happen</b>&nbsp;&nbsp; A group project for our senior software design capstone class inspired by our collective frustration with current social media’s focus on making our backlogs public. We want to create a tool for people to make plans for the future with all interactions between users kept private. This will be a simple planning platform where users can keep a list of things they want to do and friends can ambiently express their interest by swiping “me too.” We expect further communication to take place outside the app and are interested in the simplicity of its humble feature set, and its potential to encourage offline communication and activity. Working as a designer and developer. Currently in development. 
